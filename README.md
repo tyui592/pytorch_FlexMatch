@@ -40,7 +40,7 @@ $ python main.py --mode 'eval' --load_path ./model-store/001/ckpt.pth
 | Num Labaled Data | Top 1 Acc |
 | --- | --- | 
 | 4000 | 0.9580 | 
-| 250 | on going |
+| 250 | 0.9505 |
 | 40 | on going |
 
 ## References

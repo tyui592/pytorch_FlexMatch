@@ -125,7 +125,7 @@ def build_parser():
                         help="wandb usage flag")
     parser.add_argument('--wb_project',
                         type=str,
-                        default='FixMatch',
+                        default='FlexMatch',
                         help="Project Name")
     parser.add_argument('--wb_tags',
                         type=str,

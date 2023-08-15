@@ -40,6 +40,7 @@ class AverageMeter:
 
         return None
 
+
 def mapping_func(mode='convex'):
     """Returnt he Mapping func."""
     if mode == 'convex':

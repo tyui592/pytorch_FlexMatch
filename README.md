@@ -49,3 +49,4 @@ $ python main.py --mode 'eval' --load_path ./model-store/001/ckpt.pth
 - https://arxiv.org/abs/2110.08263
 - https://www.zijianhu.com/post/pytorch/ema/
 - https://github.com/kekmodel/FixMatch-pytorch
+- https://github.com/tyui592/pytorch_FixMatch

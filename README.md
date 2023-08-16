@@ -41,7 +41,7 @@ $ python main.py --mode 'eval' --load_path ./model-store/015/ckpt.pth
 | --- | --- | 
 | 4000 | 0.9580 | 
 | 250 | 0.9505 |
-| 40 | on going |
+| 40 | 0.9470 |
 
 **Model weights (and training logs) of the above performance are on [the release page](https://github.com/tyui592/pytorch_FlexMatch/releases/tag/v0.1).**
 
